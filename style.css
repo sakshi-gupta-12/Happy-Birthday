@@ -321,7 +321,7 @@ body {
 /*flip img*/
 .flipper{
     display: flex;
-    height: 3700px;
+    height: 4000px;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
