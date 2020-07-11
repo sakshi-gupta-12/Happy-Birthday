@@ -1,4 +1,4 @@
-
+alert("click somewhere on the page #chrome_problem");
 const imagess =['sakshi1.jpg','sakshi2.jpg','sakshi3.jpg','sakshi4.jpg','sakshi5.jpg', 'sakshi6.jpg','sakshi7.jpg','sakshi16.jpg','sakshi15.jpg','sakshi14.jpg','sakshi13.jpg','sakshi20.jpg','sakshi10.jpg','sakshi9.jpg'];
 const images =['sakshi1.jpg','sakshi12.jpg','sakshi5.jpg','sakshi19.jpg','sakshi.jpg', 'sakshiaman2.jpg'];
 let i = document.getElementById('sak1');
