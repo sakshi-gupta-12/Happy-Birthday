@@ -54,6 +54,7 @@ body {
     background: #020202;
     cursor: crosshair;
     background-image: url('bbbb.jpg');
+    font-family: 'Courgette', cursive;
   }
   canvas
   {
@@ -395,10 +396,17 @@ body {
       font-size: 1.4rem;
       color:#fff;
   }
+#last i {
+    font-size:1rem;    
+}
   h3{
       color:#ad7777;
       font-size: 1.5rem;
   }
+footer{
+    
+    font-size:0.9rem;
+    opacity:0.6;}
 
   @media screen and (min-width:800px){
       h1{
